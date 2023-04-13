@@ -8,7 +8,7 @@ const express = require("express");
 const mongoose = require("mongoose");
 const sampleRoutes = require("./routes/sample-routes");
 
-const mongoConnectionPath = "mongodb://localhost:27017/sample-express-database";
+const mongoConnectionPath = "mongodb://127.0.0.1:27017/sample-express-database";
 const serverPort = 5500;
 
 //Connect to mongo
