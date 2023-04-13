@@ -1,4 +1,4 @@
-# ExpressServerMongoose-Template
+# Express Server Mongoose Template
 
 ## Description 
 This template is the basis to develop a complete Express Server API that uses a MongoDB as database. 
